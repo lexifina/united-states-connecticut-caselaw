@@ -1,0 +1,24 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1885-05-04"
+citations: ["53 Conn. 1"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick O. Seeley vs. The City of Bridgeport."]
+source_url: "https://static.case.law/conn/53/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 518501
+cites_cases: ["2 Root, 348", "43 Conn., 596", "50 Conn., 529"]
+---
+
+# Seeley v. City of Bridgeport
+
+## Majority (Granger, J.)
+
+Granger, J.
+This is a civil action claiming damages for an injury received by the plaintiff from a fall upon a sidewalk of the defendant city left in a dangerous condition through the negligence of the defendants. The defendants suffered a default and were heard in damages. Before the hearing the plaintiff filed a motion to have the damages assessed by a jury. The judge overruled the motion and assessed the damages at sixty dollars. The first reason assigned by the plaintiff upon his appeal is the error of the court in this ruling.
+The counsel for the plaintiff claim that under the provision of the constitution that “the right of trial by jury shall remain inviolate,” his right to a trial of his case by a jury cannot be taken away; but, as has been repeatedly held, this provision of the constitution secures the right of trial by jury only where it existed when the constitution was adopted. It does not create the right; it only preserves it. But it had never been the practice to have damages upon a default assessed by a jury. It had always been done by the -court. This provision of the constitution has therefore no application to the case. 2 Swift’s System, 268; 1 Swift’s Digest, 784; Cockran v. Leister, 2 Root, 348; Raymond v. Danbury & Norwalk R. R. Co., 43 Conn., 596; Batchelder v. Bartholomew, 44 id., 502; Shepard v. New Haven & Northampton Co., 45 id., 58.
+Another -error is assigned as a ground of appeal, in the ruling of the court as to the admissibility of certain evidence. It appears by the finding of the court that the defendants claimed that the place where the plaintiff slipped was outside of the limits of Main Street and on land belonging to the People’s Savings Bank, and that it was open to travel not for the purposes of a sidewalk but for the accommodation of people going to a store in the building. This evidence was of course admissible, it being only claimed by the plaintiff that it was a part of the sidewalk and of course that the defendants were bound to keep it in a safe condition; and it not being claimed that it was a dangerous place outside of the sidewalk, but so near as to make it the duty of the defendants to protect the public against it by a railing. Beardsley v. City of Hartford, 50 Conn., 529. This point being proper to be proved the question is, whether the evidence offered for the purpose was in its nature admissible. It appears that Main Street, where the accident occurred, was originally a town highway, and that there was no survey or record fixing its limits. The question was where was its east line. In the absence of anything else to determine it, it would be taken to be that line up to which the public on the one side had used the way to travel over, and up to which adjoining proprietors had occupied or used the land on the other side. To show where that line was in front of the bank building, the defendants offered evidence to show where it clearly was, as marked by buildings or fences, north and south of the bank building. The plaintiff objected to this evidence unless limited to the property immediately adjacent or very near to the bank building. But the evidence was in its nature admissible, and was none the less so that it was not limited to the adjacent property. Any indications of the line remoter than the adjacent property would of -course become of less importance in determining the line at the place in question, but this would be, within reasonable limits, only a question of the weight of the evidence, not of its admissibility. The presumption would be, if the highway had been originally laid out by formal proceedings and all record of the lay-out lost, that the line was a continuous one, substantially straight; and if the highway had become such by dedication and the acceptance of the public, there would be equally a presumption that the dedication had been made upon a continuous line, and the use of the public, constituting an acceptance of the highway, had been along a continuous course and within continuous lines. It was therefore entirely proper that the east line of the street for some distance north and south of the place of the injury, if ascertainable, should be considered in determining- where the line ran at the place in question.
+There is no error in the judgment appealed from.
+In this opinion the other judges concurred.
