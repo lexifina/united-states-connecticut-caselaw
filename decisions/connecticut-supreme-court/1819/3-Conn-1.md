@@ -1,0 +1,31 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1819-06-11"
+citations: ["3 Conn. 1"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Judge# were of the same opinion."]
+parties: ["The town of Barkhamsted against Parsons."]
+source_url: "https://static.case.law/conn/3/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753936
+cites_cases: ["15 Johns. Rep. 432"]
+---
+
+# Town of Barkhamsted v. Parsons
+
+## Majority (Hosmer, _Ch. J.)
+
+Hosmer, _Ch. J.
+The first objection raised to the judgment t>f the superior court is, that the acts complained of by the plaintiffs are not averred, as by law they should have been, to have been committed contra formara statuti. 1 Chitt. Plead. 357, 8, 9. Com. Dig. tit. Action upon statute, H. I. The staK ute is referred to by its title, and the expressions comprising the offence are recited. The declaration then alleges, “ that by reason of the premises, and that by force of the statute,” the defendant has become liable to the prescribed penalty. The averment against the form, &c. is required merely to shew, that the action is brought on the statute. “ Every offence for which a party is sued or indicted, is supposed to be prosecuted as an offence at common law, unless the prosecutor, by reference to a statute, shews that he means to proceed upon it; and without such express rq^^fee, if it be no offence at common law, the court will not^Sok to see if it be an offence by statute.” Lee v. Clarke, 2 East, 340. No precise form of allegation is required, although the one supposed to be necessary is the most usual. Now, the plaintiffs have clearly shewn, that their rebanee is on the statute. They have ferred to it, by its title, which they have recited; and they have averred, that by reason of their allegations, and by force of the statute, they have a right to recover. In Lee v. Clarke, Lawrence, J. intimates an opinion, that these expressions are! sufficient; and on this head, I think, there can exist no reasonable doubt.
+It is next objected, that the corporation has not sued by its corporate name, but by the description of “ Amos Beecher and the rest of the inhabitants of Barkhamstedd'1 Were this a novelty, it would merit attention; but the uniform course of practice in this state, has sanctioned this mode of describing a corporate body, instead of using the corporate name merely.
+It is further objected, that the penalty of the statute,, taken singly, is below the jurisdiction of the superior court ; and that it may not be cumulated in the same action. To this I reply, that theact complained ofis single, and constitutes but one offence. In Parker v. Carson & ux. Cro. Jac. 529. the defendants were informed against for eleven months absence from church, contrary to 23 Eliz. c. 1. s. 5. That statute prescribed a penalty of 20/. a month, for every month’s omission to repair to some chapel, or usual place of common prayer. A recovery was had for 220/. the whole sum demanded. So, on the statute, 5 Eliz. c. 4. which imposes 2/. a month as a penalty for exercising a trade without having served an apprenticeship, one suit comprising penalties for eleven months successive service, was sustained. Shoyle v. Taylor, Cro. Jac. 178. In an action of trover, brought to recover damages for the conversion of a bed, it has been detennined, that a judgment before rendered for the conversion of three bed-quilts, taken at the same time, was a bar; because the seizure of the bed and bed-quilts was one single, indivisible act. Farrington & al. v. Paine, 15 Johns. Rep. 432. Andón the statute of this state for detecting and punishing trespasses, penalties are constantly accumulated in one action, althoi/gh the forfeiture prescribed is literally single, for the cuklang of every tree. Now, in the case before us, ⅞⅜ unity of t|£ act was more perfect than either of the cases cited. .Thepother and children were brought into Barkhamsted by the |ame act, at the same time, and were left there, by the same cessation of action. It would be against the interest of all concerned, and in opposi-to well established principles, if it were required, that a single act should be prosecuted by numerous actions, because it authorized the infliction of several penalties, which, with the most perfect justice and convenience, could he united in one aggregate sum.
+‘ It is conceded, that the defendant, an inhabitant of Massachusetts, did not personally bring the paupers into the town of Barkhamsted; but that he sent them there under the care of his son. On this foundation, it has been contended, that bound by no tie of allegiance to this government, the defendant cannot have the act of his agent imputed to him. This assertion is gratuitous, and destitute of any support. The principle of common law, Qui facit per alium, facit per se, is of universal application, both in criminal and civil cases ; and he who does - an act in this state, by his agent, is considered as if he had done it in his own proper person.
+It appears, that Obed Smith, the husband and father of the paupers, once resided in Barkhamsted, and was there admitted a freeman. It has been contended, that the certificate of the civil authority and select men evincing his qualifications, one of which is, that he was an inhabitant of this state, is conclusive to prove, that he was an inhabitant of Barkhamsted-. For this argument there is no foundation. The certificate does not purport, that he was an inhabitant of any town; and if it did, it would be conclusive only on his admissibility as a ’ J J ireeman.
+The defendant has further objected, that the plaintiffs have T, , not lormally demanded damages. It was unnecessary, and would have been incorrect, if they had done it. The action is not founded on damage. The plaintiffs’ right to the penalty did not accrue until the bringing of the action ; and they cannot have sustained any damage, by a previous detention of the penalty. 1 Chitt. Plead. 397. Frederick v. Lookup, 4 Burr. 2021. Cuming v. Silby, 4 Burr. 2490.
+I would advise^ that no new trial be granted ; and that judgment be not arread.
+The other Judge# were of the same opinion.
+New trial not to be granted; and
+Judgment not to be arrested.
+TUt. 165. c. 1.
