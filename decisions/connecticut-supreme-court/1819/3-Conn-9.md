@@ -1,0 +1,28 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1819-06-11"
+citations: ["3 Conn. 9"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Judges were of the same opinion."]
+parties: ["Barber against Brace and others."]
+source_url: "https://static.case.law/conn/3/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753949
+cites_cases: ["1 Johns. Ch. Rep. 272", "1 Johns. Ch. Rep. 425", "1 Johns. Rep. 414", "2 Johns. Ch. Rep. 415", "3 Day 346", "7 Johns. Rep. 385"]
+---
+
+# Barber v. Brace
+
+## Majority (Hosmer, Ch. J.)
+
+Hosmer, Ch. J.
+The defendants undertook, by a contract in writing, to transport, on board the sloop Mary, eight hogsheads of gin, from Hartford to Boston. They were stowed on the vessel’s deck, and were cast overboard in tempestuous weather. It is not pretended, that the jettison was without justifiable cause ; but that the loss was occasioned by negligent management, and careless stowage. The gin, it is said, ought to have been put in the hold of the vessel, and not on her deck. The defendants claimed, that the stowage on deck was pursuant to an agreement of the parties, made posterior to the written contract. The court instructed the jury, that if the agreement was proved, they must find for the defendants. To this part of the charge no objection has been made, except that the person who delivered the gin was a special agent, and could not bind the plaintiff, unless he were specially authorised. Fenn & al. v. Harrison & al. 3 Term Rep. 757. 760.
+To this objection the reply is conclusive, that it is not presented by the motion. The plaintiff, for aught that appears, made the contract personally, or by some one invested with explicit authority. The evidence relative to the conversation with the boatmen the court instructed the jury to disregard ; except so far as it invalidated the testimony of the plaintiff’s witnesses.
+The defendants adduced testimony to prove, that it was the usage of the trade between Hartford and Boston, to transport gin on the vessel’s deck. The jury were instructed, that if a custom authorising the stowage was satisfactorily proved, it repelled the imputation of mismanagement and negligence. The principle of law comprised in the charge is not susceptible of doubt. A commercial usage, having existed a sufficient length of time to have become generally known, and to warrant a presumption that contracts are made in reference to it, is evidence of the intention of the parties, and illustrative of their agreement. Parr v. Anderson, 6 East 202. Lethulier's case, 2 Salk. 443. Noble & al. v. Kennoway, Doug. 510. Halsey v. Brown & al. 3 Day 346. Vallance v. Dewar, 1 Campb. 503. Coit & Pierpont v. The Commercial Insurance Company, 7 Johns. Rep. 385. 390. On a subject so trite and familiar, it was not necessary for the court to be more particular! in their charge. The simple idea requisite to he cómmu* nicated, was this ; that if it was customary to stow gin on I the vessel’s deck, the stowage in that place was authorised. The true test on this subject, is, the obvious answer to the question, whether the jury comprehended the force of the in* struction given. In this case, that they did, no person can entertain a serious doubt. On this point it is unnecessary to ex-,; patiate. Reject from the charge every thing relative to usage, and the charge was precisely correct.
+What is the rule of the comrnon law respecting the mode in which goods are to be carried ? So far as relates to this enqui- l ry, the bailee is bound to exercise ordinary care, and is responsible for ordinary neglect. The action of the plaintiff is founded on this principle. The gist of his complaint is, that the defendants mismanaged hi the stowage, and did not exercise ordinary care. Now,^mof that they did what prudent men usually do, repels every imputation of neglect, want of care, and inattention to the obliAions of the contract. Thus, the rule of the common law aW the usage of merchants are in entire harmony on the subject under discussion ; and both of, them coincide with the charge to the jury.
+The defendants offered parol testimony to prove, that at the time the wi'itten contract was executed, there was a verbal agreement made to transport the gin on the sloop’s deck. The testimony was rejected ; the whole conversation both before and at the time the writing was given, having been merged in the written instrument. 5 Vin. Abr, 516. pl. 18. 517. pl. 26. Mumford & al. v. McPherson & al. 1 Johns. Rep. 414. Rich v. Jackson, 4 Bro. Ch. Ca. 514. Parkhurst & al. v. Van Courtlandt, 1 Johns. Ch. Rep. 272. 282. Stevens & al. v. Cooper & al. 1 Johns. Ch. Rep. 425. 429. Botsford v. Burr, 2 Johns. Ch. Rep. 415. Afterwards, however, it was admitted, exclusively, for contradicting the plaintiff’s witnesses. The court prohibited the defendant’s counsel from commenting, to the jury, on the testimony, for any other purpose ; and this was explicitly, and publicly, declared. A new trial is now requested, because the court, in their charge, did not instruct the jury in a manner more formal and direct. There is no magic in the mode of communicating ideas to a jury. They were fully possessed of the court’s opinion on the point of law, and can no more be presumed to have disregarded it, than if the communication had been made in the charge. New trials are not awarded on formal objections ; but on such as are applicable to the merits of the cause.
+I am of opinion that a new trial ought not to be granted.
+The other Judges were of the same opinion.
+New trial not to be granted.
