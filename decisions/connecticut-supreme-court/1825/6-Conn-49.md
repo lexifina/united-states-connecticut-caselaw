@@ -1,0 +1,36 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1825-07"
+citations: ["6 Conn. 49"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hosmer, Ch. J. was of the same opinion.", "Peters and Bristol, Js. dissented."]
+parties: ["Gladwin against Lewis :"]
+source_url: "https://static.case.law/conn/6/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6754102
+cites_cases: ["1 Root 474", "4 Dall. 269"]
+---
+
+# Gladwin v. Lewis
+
+## Majority (Brainard, J.)
+
+Brainard, J.
+The question in this case is, Whether the service of civil process on a thanksgiving day, in Connecticut, is valid. We need not discuss the question, whether at the common law, the service of civil process on the Sabbath is good. Admit it. Neither is it necessary to comment on, or call in aid, the several English statutes in relation to the subject. There were two made in the reign of Charles II. One, I believe, of the 24th, the other the 27th. This subject was early taken into consideration, by our legislature. Our pious ancestors, thinking, perhaps, that the divine command,-a command, in my view, exceedingly broad,-“ Six days shalt thou labour, and do all thy work, but the seventh is the Sabbath of the Lord, thy God,’’ not sufficiently explicit, not expressly prohibiting the service of writs on the Sabbath; or perhaps, thinking that legislative sanction might not be amiss ; enacted what in substance is retained in our present statute : “That if any civil process shall be issued or served between the setting of the sun, on Saturday night, and 12 o’clock of the succeeding Lord’s day night, it shall be void.”
+This settles the question as to the service of civil process on the Sabbath, in Connecticut. But it is said, that in the statute entitled “Sabbath,” there is a marked and material distinction between the Sabbath and days of thanksgiving; that although the service of civil process is expressly prohibited, on the one, it is not, on the other. It must be admitted, that in Connecticut, the service of civil process is the subject of civil, not of religious regulation.
+The 8th section of the statute, which relates to the observance of days of thanksgiving, is, “ That all persons shall abstain from every kind of servile labour and vain recreation, works of necessity and mercy excepted."
+The words of the statute, 1st section, are, "No person, on the Sabbath, shall do any secular business, works of necessity and mercy excepted."
+It is contended, that although the service of civil process, on the Sabbath, is made void; yet the same service on days of thanksgiving, is only prohibited.
+I am not about to enter into the discussion of the distinction between void and voidable. I will only say, that an act by law prohibited, cannot be sanctioned and made valid, by the payment of a fine or penalty.
+It is further contended, that there is a distinction between the two sections of the statute; between “secular business” and "servile labour;” that the service of a writ may be called secular business, but not servile labour. There is, indeed, a difference in expression, but, I think, not in principle.
+The service of a writ is labour; and generally, servile. A sheriff may race his horse after a fugitive debtor, and find the exercise servile enough; and, I think, common sense would say, it was also secular.
+It is further said, that the service of civil process on a thanksgiving day, may be necessary. Without commenting on the word “necessity,” as used in the several sections of the statute referred to, it is sufficient to observe, that the expression “works of necessity and mercy excepted” is used in the 1st section of the statute, in relation to the Sabbath, and also in the 8th, in relation to days of thanksgiving. But the 5th section, in relation to the service of civil process, admits of no exception of “necessities.” Besides, the service of civil process, on days set apart for religious observance, either by divine command or civil authority, cannot be said to be a work of necessity, much less of mercy.
+I would advise, that the judgment of the superior court be affirmed.
+Hosmer, Ch. J. was of the same opinion.
+Peters and Bristol, Js. dissented.
+Judgment affirmed.
+It seems to be the opinion of eminent jurists, that previous to the act of May, 1820, a marriage, celebrated by a person not having the requisite qualifications for this purpose, was a valid marriage. Reeve's Dom. Rel. 197. How this anomaly in our law was introduced, is a matter worthy of some enquiry.
+The canon law is the basis of the matrimonial law of Europe. By that law, there were three classes of marriages: 1. regular marriages, where every thing was presumed to be complete and consummated, both in substance and in ceremony; 2. irregular marriages, where every thing was presumed to be complete and consummated in substance, but not in ceremony; 3. sponsalia per verba de futuro, where nothing was presumed to be complete or consummated, either in substance or ceremony. At the reformation, the law of England, rejecting what was peculiar to the Romish church, adopted these rules of the canon law, which had their foundation, not in the sacrament, or in any religious view of the subject, but in the natural and civil contract of marriage. The ecclesiastical courts, therefore, which had the cognizance of matrimonial causes, enforced these rules, and among others, that which held an irregular marriage constituted per verba de præsenti, valid. This doctrine was also recognized, by the temporal courts, as the established matrimonial law of England. In Collins v. Jessot, 6 Mod. 155. S. C. 2 Salk. 437. in the reign of Queen Anne, it was said, by Holt, Ch. J."If a contract be per verba de præsenti, it amounts to an actual marriage, which the very parties themselves cannot dissolve, by release, or other mutual agreement; for it is as much a marriage in the sight of God, as if it had been in facie ecclesiæ." Thus the law remained in England, until the statute of 26 Geo. 2. c. 33. which declared all marriages, not solemnized according to its requirements, absolutely null and void.
+When our ancestors left their native country, a regular marriage could be celebrated, there, only before a clergyman in orders. Here, it accorded better with their feelings and views, to delegate this power to the civil magistrate; for it appears from an ordinance, passed by the legislature of Connecticut, as early as the 10th of April, 1640, regarding sponsalia per verba de futuro, that he alone was, at that time, recognized as the proper functionary for this service. It was not until October, 1694, that the ordained ministers of the several plantations were authorized to celebrate marriages. Their power was restricted to their respective towns, until May, 1783, when it was extended throughout the county. But throughout the whole course of legislation on this subject, from the first establishment of the government down to the act of May, 1820. marriages of the second class, were never declared void. They rested, then, on the same ground, and were, to be viewed in the same light, as marriages of the same description in England, in the reign of Queen Anne, or at any time previous to 26 Geo. 2. c. 33.-R.
