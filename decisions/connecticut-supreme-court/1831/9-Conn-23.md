@@ -1,0 +1,26 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1831-07"
+citations: ["9 Conn. 23"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Judges were of the same opinion."]
+parties: ["Coit against Tracy:"]
+source_url: "https://static.case.law/conn/9/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753928
+---
+
+# Coit v. Tracy
+
+## Majority (Bissell, J.)
+
+Bissell, J.
+With regard to the first ground of error assigned, it appears from the facts found by the committee, that considerable losses had been sustained on the moneys which came into the hands of Tracy and Coit, as the agents of the association. It also appears, that on the adjustment of their accounts with their associates, they had been charged with these losses. No part of them was sustained by the share-holders, as such j but the whole amount was thrown upon Tracy and Coit, in the character of agents and trustees. It has been found by the committee, that these losses áre justly attributed to the joint neglect of them both; and that neither of them has any claim on the other, by reason of such losses. Nothing, then, is more obvious, than that the loss ought to have been borne by them equally. That the loss is not so borne, upon the principles adopted by the committee, is equally obvious. Coit is made to bear this loss in the proportion that 10,744 27 is to 7111 34. From the statement of the account by the committee, sanctioned by the court, the loss is made to fall upon the shares, anc^ not uPon ^ie agents the association. Not only the oriU shares of Coit, but those purchased by him from Brown and Howland, are made to sustain their proportion of the lossf This is not only manifestly unjust, but entirely opposed to the adjustment sanctioned by the court, upon the bill of Daniel L. Coit and others, and inconsistent with the facts found and thef principles adopted by the committee in other parts of their report. I am, therefore, of opinion, that this ground of error: has been fully sustained ; and so far the judgment and decree ⅛ of the superior court must be reversed.
+As to the second exception taken, I am also of opinion, that in this respect the judgment of the superior court is erroneous. Tracy and Coit were jointly entitled to the sum of 1054 dollars, 70 cents, for their commissions, in prosecuting the claims of the company under the Spanish treaty. This sum they were entitled to retain, and did retain, out of the general funds: in their hands. The committee undertook to apportion this sum between them in proportion to their services and disbursements ; and they found, that of this sum Tracy was entitled to 605 dollars, 4 cents, and Coit 449 dollars, 66 cents ; making a difference of 155 dollars, 38 cents. This, together with the interest, amounting to 185 dollars, 48 cents, is charged, not upon the joint fund, but upon the individual fund of Coit; and he is decreed to pay Tracy the entire sum. This is manifestly erroneous, and wholly inconsistent with the principles adopted by the committee in other parts of their report. Tracy is found to have received out of the moneys deposited at the bank in Boston, in principal and interest, 505 dollars, 4 cents, over and above the amount received by Coit; and the committee find, that Tracy ought to pay to Coit the one half of this sum. This allowance is made on strict mercantile principles ; and the same principles ought to have been applied, and to have governed, in settling the commissions,
+Tracy is allowed interest on his commissions and disbursements from July 6th, 1824, to October 1st, 1827 ; and although it appears, that at this date, moneys more than sufficient to cover all his demands, came into his hands and were by him retained, yet he is not charged with interest upon these sums. This is the third cause assigned for error.
+j. The committee, throughout their whole report, seem to have J adopted one uniform rule with regard to the computation of interest; which rule is departed from only in this single instance. In every other, they have allowed interest, not only on moneys received, and disbursements made, but also on sums due for services rendered, from the time the indebtedness accrued up to the 1st of October, 1827. No reason is assigned why the rule was departed from, in the instance under consideration ; and it is difficult to see, that any could exist. It would, indeed, seem rather extraordinary, that the charge of interest on moneys due for services rendered, might be made, long after such services had been paid for. This, I think, is erroneous.
+By the account, which has been exhibited, by the plaintiff in error, and which I believe to be stated on correct principles, it appears, that the further sum of 555 dollars, 14 cents, was justly due from Tracy to Coit, on the 1st of October, 1827. The cause must, therefore, be remanded to the superior court, with directions so to modify their decree, as that the plaintiff shall recover of the defendant in error said further sum of 555 dollars, 14 cents, and interest thereon from the 1st of October, 1827, to the time of final judgment in the causé.
+The other Judges were of the same opinion.
+Judgment reversed; and Cause remanded.
