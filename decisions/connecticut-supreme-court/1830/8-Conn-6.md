@@ -1,0 +1,29 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1830-06"
+citations: ["8 Conn. 6"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Judges were of the same opinion."]
+parties: ["Edgerton and another, administrators of Jacob Edgerton, against Edgerton."]
+source_url: "https://static.case.law/conn/8/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753155
+cites_cases: ["2 Conn. Rep. 533", "2 Conn. Rep. 534", "2 Conn. Rep. 685", "4 Conn. Rep. 197", "4 Johns. Rep. 235", "5 Day, 337", "6 Conn. Rep. 83"]
+---
+
+# Edgerton v. Edgerton
+
+## Majority (Williams, J.)
+
+Williams, J.
+The questions arising in the case are these: Do the terms of the note import a consideration? Was parol evidence properly admitted to show it? And was it sufficient to be left to the jury to prove that consideration?
+As to the first question. It is not claimed, that the note declared upon was a specialty, by the common law; but that, by the usage of this state, it might be treated as such. “In Connecticut, promissory notes,” says Judge Swift, “from the earliest periods have been considered as specialties, so far as to import a consideration and to be declared upon as such.” Swift's Evid. 339. Again: they are “of as high a nature as bonds.” 1 Swift’s Syst. 393. In pursuance of this general opinion from so respectable a source, it is presumed the charge was given. It is certain, that in this state, there was not so much importance attached to seals as there was in that country from which we derived much of our legal science. The writer cited above, says, that even in deeds of land, seals are “an unmeaning formality, and ought to be abolished.” 1 Swift’s Syst. 306. In consequence, probably, of ideas of this kind, notes of hand have, in a great measure, superseded the use of bonds; and, for many purposes, have been treated as such. They are declared upon as specialties; a profert is made of them; they are subject to oyer; the declaration, and not the evidence, is demurred to; and the statute of limitations is the same as in the case of bonds. Slocum v. Sanford, 2 Conn. Rep. 534. And the consideration cannot be attacked any more than where the instrument is a bond. 1 Swift’s Dig. 429. They are quasi specialties. But does the usage extend to all promissory notes ? As our statute making notes negotiable, is of recent date, it will hardly be claimed, that negotiable notes are within this usage. It applies to promissory notes containing an express promise, “for value received,” to pay a certain sum of money. 1 Swift’s Dig. 393. And no case is recollected, where a mere promise, without an acknowledgment of value, was held within the custom.
+The whole system being a departure from the common law, and peculiar to this state, it is not to be extended; and as no consideration is expressed in this note, I feel compelled to say, that the terms of the note did not import a consideration; and that this note was, in no sense, a specialty. Were there nothing more in the case, I should advise a new trial.
+But, although no value is acknowledged in the note, yet in the third count the plaintiffs have alleged a consideration, which they have proved and unless the evidence of that fact was improperly admitted, or was insufficient to prove it, the plaintiffs are entitled to retain their verdict.
+It was objected, that as the evidence of consideration was an indebtedness for land sold, no proof of its existence could be given, unless it was in writing. Of course, that the admission of that fact by the defendant, could not be proved by paroh But it was decided, by this Court, in the case of Sage v. Wilcox, 6 Conn. Rep. 83. that the statute of frauds does not require the consideration of a promise to be in writing, although the promise must be. It is true, that suit was connected with another branch of the statute regarding a promise to pay the debt of another. That branch of the statute speaks of “any contract or agreement;” this of “any contract.” It can hardly be contended, that this variation in phraseology requires a more limited construction, in the latter case than the former. If there be a difference, it would seem that the Statute was more comprehensive in the former clause than in the latter; but I think the construction must be the same in both.
+It is said, that the land must have been conveyed by deed; and the deed is the best evidence, and was not produced. The deed is not a paper of the plaintiffs, nor supposed to be in their possession: Of course, they are not required to produce it. And if the deed were produced, it would not prove the consideration of the note. It might prove a conveyance of land; but the connexion between that and this note might be proved in some other way. No evidence more appropriate for that purpose could be expected, than the admission of the fact by the defendant. The evidence was, therefore, properly admitted.
+It is said, that if the proof was admissible, it was not sufficient; for the sale and conveyance must be proved; and the judge should have so instructed the jury. Suppose the note had been expressed as it now is, with this addition—value received in the balance due for a farm purchased of the deceased;—it would hardly be claimed, that the plaintiffs must prove, that a farm was sold, or that any further proof of a consideration was necessary. And if it is not necessary that the consideration be in writing, I see not why actual proof of the sale or conveyance need be made, in this case, more than in that. The instruction to the jury, that if they found the consideration proved as alleged, to find for the plaintiffs, was, therefore, correct; and no new trial ought to be allowed.
+The other Judges were of the same opinion.
+New trial not to be granted.
