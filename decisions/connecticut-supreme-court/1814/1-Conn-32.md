@@ -1,0 +1,35 @@
+---
+court: "Connecticut Supreme Court"
+decided: "1814-06"
+citations: ["1 Conn. 32"]
+reporter: "conn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Judges were of the same opinion."]
+parties: ["Selleck and others against French :"]
+source_url: "https://static.case.law/conn/1/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12121363
+---
+
+# Selleck v. French
+
+## Majority (Swift, J.)
+
+Swift, J.
+This was an action of book-debt; and the only question arising in the case is, whether interest ought to be allowed.
+It appears that a sum was due to the plaintiff for advancements ; that there had been no mutual dealings; that the debt had not been liquidated by the parties; and that there was no special agreement or custom to pay interest. Interest was allowed by the court; and to this the defendant objects, because there was no contract or custom to pay it.
+Interest by our law is allowed on the ground of some contract express or implied to pay it, or as damage for the breach of some contract, or the violation of some duty.
+1. Interest will be allowed in all cases where there is an express contract to pay it.
+2. The law will imply a contract to pay interest where such has been the usage of trade, or the course of dealings between the parties. Where it is known to be the custom of merchants or others to charge interest on their accounts for goods sold after a certain term of credit, the law will presume the purchaser promises to pay such interest. So where in accounts settled interest has been charged and allowed, and the account afterwards continued, it will be presumed that interest was agreed to be paid.
+3. Where there is a written contract to pay money or other thing on a day certain, and the contract is broken, then interest is allowed by way of damage for the breach, as in the case of notes and bills of exchange. Though a policy of insurance contains no certain day on which the losses are to be paid, yet interest will be computed from the time the money becomes due.
+4. Where goods are sold and delivered, to be paid for on a day certain, and are charged on book, interest will be allowed after the term of credit has expired. If partial payments are made, interest will be allowed on the balance, though the account is unliquidated.
+5. Where one has received money for the use of another, and it was his duty to pay it over, interest is recoverable for the time of the delay; but if the holder of money for another is guilty of no neglect or delay, he will not be chargeable with interest.
+6. Where money is obtained by fraud or deceit, and the party injured, waiving the tort, brings his action on the implied promise, interest will be allowed as damages.
+7. Where an account has been liquidated, and the balance ascertained by the parties, interest will be allowed thereon, unless there should be some agreement to delay the payment.
+8. Where articles are delivered, or services performed, and charged on book, and no time of payment agreed on ; yet if it appear from the nature of the transaction that they were to be paid for in a reasonable time, and not to rest on book as a mutual account ; then if payment be unreasonably delayed, interest will be recoverable as damages, though partial payments have been made, and the account has not been liquidated. If one should make advances for the benefit and at the request of another, or a mechanic should perform some considerable piece of work, as building a house, or a farmer should sell the produce of his farm, as his wheat, beef, &c. it could not be presumed that they were to rest on the footing of a mutual account on book, but that payment was to be made when the advancements were closed, the work completed, and the produce delivered; of course, interest would be chargeable on such accounts if unreasonably delayed, though partial payments have been made, and the accounts were unsettled ; for here has been a breach of contract.
+9. But where there are current accounts founded on mutual dealings, unless there be some promise or usage to pay interest, it will not be allowed ; for in such cases no time of payment is stipulated, each party is making payment, the balance is constantly varying, it is understood that the demands are to remain on book, and the presumption is that interest is not to be allowed: Such is the case of farmers, and mechanics, in their mutual intercourse.
+Such are the principles which have been long established in this state. In England there have been contradictory decisions ; but it has been lately decided, that interest ought to be allowed only, where there is a written contract for the payment of money on a day certain, as on bills of exchange, and promissory notes ; or where there has been an express contract ; or where a contract can be presumed from the usage of trade, or course of dealings between the parties ; or where it can be proved that the money has been used, and interest actually made. De Haviland v. Bowerbank, 1 Campb. 50. De Bernales v. Fuller & al. 2 Campb. 426. Interest has been refused in actions for money obtained by fraud ; (Crockford v. Winter, 1 Campb. 129.)—for money received to the plaintiff’s use ; (De Bernales v. Fuller & al. 2 Campb. 426.)—for goods sold and delivered payable at a certain time ; (Gordon v. Swan, 2 Campb. 429. n.)-on liquidated accounts, and on policies of insurance. Kingston v. M‘Intosh, 1 Campb. 518. But where goods have been sold to be paid for on a certain day in a bill of exchange, if the bill is not delivered, interest is allowed, because the bill would have drawn interest. Becher v. Jones, 2 Campb. 428. n. Porter & al. v. Palsgrave, 2 Campb. 472. Boyce & al. v. Warburton, 2 Campb. 480. These rules do not appear to be either founded in justice, or consistent with each other. There is the same reason to allow interest for not paying money by the time it is due in the case of policies of insurance as of notes and bills of exchange ; in the case of parol as of written contracts. Why should a man be liable to pay interest on a contract to deliver a bill of exchange in payment for goods on a certain day, and not be liable on a contract to pay the money for goods on a certain day ? It is as valuable to receive money in hand, as a bill drawing interest. Why should the defendant be liable to pay interest, if it can be proved that he has made interest by the use of it, and not liable if he has made none ? It is immaterial to the plaintiff what use the defendant has made of the money; the injury to him is the being kept out of the use of it himself.
+In this case, it appears that there were not mutual dealings ; the advancements were all on the part of the plaintiff. It is not denied, that the debt was due, and the payment unreasonably delayed ; of course, the defendant became liable to pay the interest, though the account was not settled, and there was no promise or usage to pay it.
+The other Judges were of the same opinion.
+Judgment affirmed.
